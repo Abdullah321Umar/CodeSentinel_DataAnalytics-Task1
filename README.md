@@ -12,13 +12,13 @@ This script serves as a foundation for data analysis pipelines, ensuring data is
 -  Data Types & Structure → Identifies numeric vs categorical features and highlights potential preprocessing needs.
 
 ## 📈 Visual Insights & Components (Console-Based):
-###✅ Dataset Info
+### ✅ Dataset Info
 Prints number of rows, columns, and non-null counts.
-###📊 Column Metadata
+### 📊 Column Metadata
 Outputs list of feature names to quickly verify dataset schema.
-###📌 Summary Statistics
+### 📌 Summary Statistics
 Provides measures of central tendency (mean, median), spread (std, min, max), and distribution (quartiles).
-###🧑‍💻 Quick Preview
+### 🧑‍💻 Quick Preview
 Displays the first 5 rows of the dataset for rapid inspection.
 
 
