@@ -36,7 +36,9 @@ The dashboard was built using the following tools and technologies:
 
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
+### 💼 Portfolio: https://linktr.ee/AbdullahUmar.DataAnalyst
 ### 📧 Email: umerabdullah048@gmail.com
+
 
 ### 6.	Screenshots / Demos
 Show what the Code and Output looks like.
