@@ -42,7 +42,7 @@ The dashboard was built using the following tools and technologies:
 
 ### 6.	Screenshots / Demos
 Show what the Code and Output looks like.
-![Code Preview](https://github.com/Abdullah321Umar/CodeSentinel_DataAnalytics-Task1/blob/main/Task1(Code).png)
-![Output Preview](https://github.com/Abdullah321Umar/CodeSentinel_DataAnalytics-Task1/blob/main/Task1%20(Output).png)
+![Preview](https://github.com/Abdullah321Umar/CodeSentinel_DataAnalytics-Task1/blob/main/Task1(Code%2BOutput).ipynb)
+
 
 
